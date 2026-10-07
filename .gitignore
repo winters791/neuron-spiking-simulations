@@ -1,0 +1,15 @@
+# virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# generated output
+*.png
+!docs/*.png
